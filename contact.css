@@ -1,0 +1,444 @@
+*{
+   margin:0%
+}
+header{
+   background-color: black;
+  height: 50px;
+}
+header a{
+   color:white;
+   position: absolute;
+   text-decoration: none;
+   padding-top: 15px;
+   padding-left: 90px;  
+}
+img{
+   position: absolute;
+   top: 5px;
+   left: 10px;
+}
+.nav-bar{
+   background-color: aqua;
+}
+.nav-bar ul li{
+   display: inline-block;
+   text-indent: 100px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   list-style: none;
+   font-size:23px;
+}  
+.nav-bar ul li a{
+   text-decoration: none;
+   color:black;
+}
+.nav-bar ul li a:hover{
+    background-color: blueviolet;
+    padding: 10px 10px 10px 10px;
+    border-radius: 14px;
+ }
+.contact{
+    padding-top: 60px;
+    margin-left: 100px;
+}
+.contact h3{
+    margin-left: 70px;
+    font-size: 24px;
+}
+.contact p{
+    font-size: 19px;
+    padding-top: 30px;
+}
+.image2{
+   top:1550px;
+   width:200px;
+   left:80px;
+}
+.four{
+   margin-top:1180px;
+   margin-left:80px;
+}
+.class img{
+   position: absolute;
+   background-color: black;
+   width:1200px;
+   height: 600px;
+   padding:600px;
+}
+.line1{
+   background-color:aqua;
+   width:95px;
+   height:5px;
+   position:absolute;
+   margin-left:362px;
+   top:1540px;
+}
+.ourservices{
+   text-decoration: none;
+   position:absolute;
+   margin-left:330px;
+   top:1550px;
+   line-height: 30px;
+}
+.ourservices h3{
+    margin-left: 20px;
+}
+.ourservices a{
+   text-decoration: none;
+}
+.line2{
+   background-color:rgb(248, 152, 27);
+   width:75px;
+   height:5px;
+   position:absolute;
+   margin-left:682px;
+   top:1540px;
+}
+.company{
+   position:absolute;
+   margin-left:680px;
+   top:1550px;
+   line-height: 30px;
+}
+.company h3{
+    margin-left: 0px;
+}
+.company a{
+   text-decoration: none;
+}
+.line3{
+   background-color:rgb(184, 250, 29);
+   width:75px;
+   height:5px;
+   position:absolute;
+   margin-left:880px;
+   top:1540px;
+}
+.resources{
+   position:absolute;
+   margin-left:880px;
+   top:1550px;
+   line-height: 30px;
+}
+.resources h3{
+    margin-left: 0px;
+}
+.resources a{
+   text-decoration: none;
+}
+.line4{
+   background-color:rgb(250, 12, 24);
+   width:75px;
+   height:5px;
+   position:absolute;
+   margin-left:1150px;
+   top:1540px;
+}
+.followus{
+   position:absolute;
+   margin-left:1150px;
+   top:1550px;
+   line-height: 30px;
+}
+.followus h3{
+    margin-left: 8px;
+}
+.change{
+    position: absolute;
+    top:0px;
+}
+.whatsapp {
+   position:absolute;
+   margin-top:1608px;
+   margin-left:1100px;
+}
+.insta {
+   position:absolute;
+   margin-top:1608px;
+   margin-left:1170px;
+}
+.fb {
+   position:absolute;
+   margin-top:1608px;
+   margin-left:1240px;
+}
+.call {
+   position:absolute;
+   margin-top:1680px;
+   margin-left:1170px;
+}
+.linkedin {
+   position:absolute;
+   margin-top:1740px;
+   margin-left:1100px;
+}
+.utube {
+   position:absolute;
+   margin-top:1740px;
+   margin-left:1170px;
+}
+.twitter {
+   position:absolute;
+   margin-top:1740px;
+   margin-left:1240px;
+}
+.class {
+   background-color: black;
+   width:1100px;
+   height: 1200px;
+}
+.form{
+    position: absolute;
+    left:700px;
+    top:130px;
+    padding:20px;
+}
+.form h3{
+    margin-left: 0px;
+    margin-top: 10px;
+
+}
+.form input{
+    padding-top: 15px;
+    margin-top: 15px;
+    width:200px;
+    color:white;
+}
+.box3{
+    position: absolute;
+    left:350px;
+    top:20px;
+}
+.form1 input{
+    width:200px;
+    padding-top:10px;
+    margin-left: 200px;
+}
+.form1 .box4{
+    margin-left: 280px;
+}
+.form1 .box5{
+    padding-top:80px;
+    width:500px;
+    margin-left: 80px;
+    margin-top:40px;
+}
+.form1 .button1{
+    width:60px;
+    padding-top:10px;
+    font-size: 15px;
+    padding-bottom: 10px;
+    position: absolute;
+    top:250px;
+    left:310px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    border-radius: black;
+}
+.form1{
+    position: absolute;
+    top:400px;
+    left:650px;
+}
+.form input{
+    background-color:rgb(84, 248, 248);
+    color:black;
+    border-radius: 6px;
+    border-color:black ;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.form1 .box4{
+    background-color:lightgrey;
+    border-radius: 6px;
+    border-color: rgb(221, 6, 6);
+    color:white ;
+}
+.form1 .box5{
+    border-radius: 0%;
+    border-color: rgb(15, 165, 235);
+}
+.clientele{
+    position:absolute ;
+    top:800px;
+    left:200px;
+}
+.clientele h3{
+  color:red;
+  margin-left: 0px;
+}
+.clientele p{
+    color:gray;
+}
+.cognist{
+    position: absolute;
+    top:920px;
+    left:400px;
+}
+.client{
+    position: absolute;
+    top:940px;
+    left:100px;
+}
+.itech{
+    position: absolute;
+    top:950px;
+    left:700px;
+}
+@media screen and (max-width:701px)
+{
+    header{  
+        margin-left:px;
+        width:100%;
+    } 
+    .nav-bar{
+        width:100%;
+    }
+    
+     .nav-bar ul li{
+        display:block;
+     }
+     .form {
+      margin-top:-1600px;
+      position: static;
+      margin-left: 20px;
+     }
+     .box3{
+        position: static;
+        margin-top: 0px;
+     }
+     .form1{
+      margin-top:500px;
+      margin-left: -670px;
+     }
+     .form1 .box4{
+        position:relative;
+        margin-top: 20px;
+        margin-left: 0px;
+
+     }
+     .form1 .box5{
+        width: 100%;
+        margin-left: 30px;
+     }
+     .form1 .button1{
+        margin-left: -150px;
+     }
+     .clientele{
+      margin-top: 430px;
+      margin-left: -160px;
+     }
+     .contact{
+      margin-top: 1250px;
+      margin-left: 0px;
+     }
+     .client{
+      margin-top:400px;
+      width:;
+     }
+     .itech{
+      margin-top:650px ;
+      margin-left: -600px;
+     }
+  .cognist{
+       margin-top:530px ;
+      margin-left: -300px;
+     }
+     .image2{
+      top:370px;
+      position: relative;
+     }
+     .four{
+        margin-top:370px;
+        position: relative ;
+     }
+    .line1{
+    
+        margin-left:15px;
+        margin-top:-1500px;
+        position: relative;
+    }
+    .ourservices{
+        margin-left: 15px;
+        margin-top:0px;
+        position: relative;
+    }
+    .ourservices h3{
+           margin-left: 0px;
+    }
+    .line2{
+        margin-left: 15px;
+        margin-top:20px;
+        position: relative;
+    }
+    .company{
+        margin-left: 15px;
+        margin-top:0px;
+        position: relative;
+    }
+    .line3{
+        margin-left: 15px;
+        margin-top:20px;
+        position: relative;
+    }
+    .resources{
+        margin-left: 15px;
+        margin-top:0px;
+        position: relative;
+    }
+    .line4{
+        margin-left: 15px;
+        margin-top:60px;
+        position: relative;
+    }
+    .followus{
+        margin-left: 15px;
+        margin-top:0px;
+        position: relative;
+
+    }
+    .last{
+        margin-left:0px;
+        top:1000px;
+    }
+    .whatsapp{
+           margin-left:0px;
+           top:1150px;
+           position: relative;
+           
+    }
+    .insta{
+        margin-left:10px;
+        top:1150px;
+        position: relative;
+    }
+    .fb{
+        margin-left:10px;
+        top:1150px;
+        position: relative;
+    }
+    .call{
+        margin-left:-90px;
+        top:1210px;
+        position: relative;
+    }
+    .linkedin{
+        margin-left:-110px;
+        top:1270px;
+        bottom:20px;
+        position: relative;
+    }
+    .utube{
+        margin-left:20px;
+        top:1270px;
+        bottom:10px;
+        position: relative;
+    }
+    .twitter{
+        margin-left:20px;
+        top:1270px;
+        bottom:10px;
+        position: relative;
+    }  
+}
